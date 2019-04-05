@@ -1,6 +1,6 @@
 # MultiThreaded-Application
 Implemented Matrix Multiplication and Merge Sort using multi threading
-#Description
+# Description
 * The project has two multi-threaded programs implemented by using POSIX threads library in C++ to create and join threads.
 * The first program is Matrix Multiplication and used to algorithms for the implememntation
   1. The computation of each element of the output matrix happens in a thread.
